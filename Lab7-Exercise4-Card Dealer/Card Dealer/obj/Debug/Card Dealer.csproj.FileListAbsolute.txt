@@ -1,0 +1,41 @@
+c:\users\tony\source\repos\Card Dealer\Card Dealer\bin\Debug\Card Dealer.exe.config
+c:\users\tony\source\repos\Card Dealer\Card Dealer\bin\Debug\Card Dealer.exe
+c:\users\tony\source\repos\Card Dealer\Card Dealer\bin\Debug\Card Dealer.pdb
+c:\users\tony\source\repos\Card Dealer\Card Dealer\obj\Debug\Card Dealer.csprojAssemblyReference.cache
+c:\users\tony\source\repos\Card Dealer\Card Dealer\obj\Debug\Card_Dealer.Form1.resources
+c:\users\tony\source\repos\Card Dealer\Card Dealer\obj\Debug\Card_Dealer.Properties.Resources.resources
+c:\users\tony\source\repos\Card Dealer\Card Dealer\obj\Debug\Card Dealer.csproj.GenerateResource.cache
+c:\users\tony\source\repos\Card Dealer\Card Dealer\obj\Debug\Card Dealer.csproj.CoreCompileInputs.cache
+c:\users\tony\source\repos\Card Dealer\Card Dealer\obj\Debug\Card Dealer.exe
+c:\users\tony\source\repos\Card Dealer\Card Dealer\obj\Debug\Card Dealer.pdb
+D:\Documents\Books\C#\5th Edition (future)\New Material\Dictionaries\Completed Tutorials\Tutorial D-2\Card Dealer\Card Dealer\bin\Debug\Card Dealer.exe.config
+D:\Documents\Books\C#\5th Edition (future)\New Material\Dictionaries\Completed Tutorials\Tutorial D-2\Card Dealer\Card Dealer\bin\Debug\Card Dealer.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\Dictionaries\Completed Tutorials\Tutorial D-2\Card Dealer\Card Dealer\bin\Debug\Card Dealer.pdb
+D:\Documents\Books\C#\5th Edition (future)\New Material\Dictionaries\Completed Tutorials\Tutorial D-2\Card Dealer\Card Dealer\obj\Debug\Card Dealer.csprojAssemblyReference.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Dictionaries\Completed Tutorials\Tutorial D-2\Card Dealer\Card Dealer\obj\Debug\Card_Dealer.Form1.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\Dictionaries\Completed Tutorials\Tutorial D-2\Card Dealer\Card Dealer\obj\Debug\Card_Dealer.Properties.Resources.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\Dictionaries\Completed Tutorials\Tutorial D-2\Card Dealer\Card Dealer\obj\Debug\Card Dealer.csproj.GenerateResource.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Dictionaries\Completed Tutorials\Tutorial D-2\Card Dealer\Card Dealer\obj\Debug\Card Dealer.csproj.CoreCompileInputs.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Dictionaries\Completed Tutorials\Tutorial D-2\Card Dealer\Card Dealer\obj\Debug\Card Dealer.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\Dictionaries\Completed Tutorials\Tutorial D-2\Card Dealer\Card Dealer\obj\Debug\Card Dealer.pdb
+D:\Documents\Books\C#\5th Edition (future)\Tutorial Workspace\Completed Tutorials\Chapter 09\Tutorial 9-4\Card Dealer\Card Dealer\bin\Debug\Card Dealer.exe.config
+D:\Documents\Books\C#\5th Edition (future)\Tutorial Workspace\Completed Tutorials\Chapter 09\Tutorial 9-4\Card Dealer\Card Dealer\bin\Debug\Card Dealer.exe
+D:\Documents\Books\C#\5th Edition (future)\Tutorial Workspace\Completed Tutorials\Chapter 09\Tutorial 9-4\Card Dealer\Card Dealer\bin\Debug\Card Dealer.pdb
+D:\Documents\Books\C#\5th Edition (future)\Tutorial Workspace\Completed Tutorials\Chapter 09\Tutorial 9-4\Card Dealer\Card Dealer\obj\Debug\Card Dealer.csprojAssemblyReference.cache
+D:\Documents\Books\C#\5th Edition (future)\Tutorial Workspace\Completed Tutorials\Chapter 09\Tutorial 9-4\Card Dealer\Card Dealer\obj\Debug\Card_Dealer.Form1.resources
+D:\Documents\Books\C#\5th Edition (future)\Tutorial Workspace\Completed Tutorials\Chapter 09\Tutorial 9-4\Card Dealer\Card Dealer\obj\Debug\Card_Dealer.Properties.Resources.resources
+D:\Documents\Books\C#\5th Edition (future)\Tutorial Workspace\Completed Tutorials\Chapter 09\Tutorial 9-4\Card Dealer\Card Dealer\obj\Debug\Card Dealer.csproj.GenerateResource.cache
+D:\Documents\Books\C#\5th Edition (future)\Tutorial Workspace\Completed Tutorials\Chapter 09\Tutorial 9-4\Card Dealer\Card Dealer\obj\Debug\Card Dealer.csproj.CoreCompileInputs.cache
+D:\Documents\Books\C#\5th Edition (future)\Tutorial Workspace\Completed Tutorials\Chapter 09\Tutorial 9-4\Card Dealer\Card Dealer\obj\Debug\Card Dealer.exe
+D:\Documents\Books\C#\5th Edition (future)\Tutorial Workspace\Completed Tutorials\Chapter 09\Tutorial 9-4\Card Dealer\Card Dealer\obj\Debug\Card Dealer.pdb
+C:\Users\000464710\Documents\GitHub\lab7-gabgab017\Tutorial 9-4\Card Dealer\Card Dealer\bin\Debug\Card Dealer.exe.config
+C:\Users\000464710\Documents\GitHub\lab7-gabgab017\Tutorial 9-4\Card Dealer\Card Dealer\bin\Debug\Card Dealer.exe
+C:\Users\000464710\Documents\GitHub\lab7-gabgab017\Tutorial 9-4\Card Dealer\Card Dealer\bin\Debug\Card Dealer.pdb
+C:\Users\000464710\Documents\GitHub\lab7-gabgab017\Tutorial 9-4\Card Dealer\Card Dealer\obj\Debug\Card Dealer.csproj.AssemblyReference.cache
+C:\Users\000464710\Documents\GitHub\lab7-gabgab017\Tutorial 9-4\Card Dealer\Card Dealer\obj\Debug\Card Dealer.csproj.SuggestedBindingRedirects.cache
+C:\Users\000464710\Documents\GitHub\lab7-gabgab017\Tutorial 9-4\Card Dealer\Card Dealer\obj\Debug\Card_Dealer.Form1.resources
+C:\Users\000464710\Documents\GitHub\lab7-gabgab017\Tutorial 9-4\Card Dealer\Card Dealer\obj\Debug\Card_Dealer.Properties.Resources.resources
+C:\Users\000464710\Documents\GitHub\lab7-gabgab017\Tutorial 9-4\Card Dealer\Card Dealer\obj\Debug\Card Dealer.csproj.GenerateResource.cache
+C:\Users\000464710\Documents\GitHub\lab7-gabgab017\Tutorial 9-4\Card Dealer\Card Dealer\obj\Debug\Card Dealer.csproj.CoreCompileInputs.cache
+C:\Users\000464710\Documents\GitHub\lab7-gabgab017\Tutorial 9-4\Card Dealer\Card Dealer\obj\Debug\Card Dealer.exe
+C:\Users\000464710\Documents\GitHub\lab7-gabgab017\Tutorial 9-4\Card Dealer\Card Dealer\obj\Debug\Card Dealer.pdb
