@@ -1,0 +1,17 @@
+C:\Users\shaml\source\repos\Assignment1-Exercise6\Assignment1-Exercise6\bin\Debug\net6.0-windows\Assignment1-Exercise6.exe
+C:\Users\shaml\source\repos\Assignment1-Exercise6\Assignment1-Exercise6\bin\Debug\net6.0-windows\Assignment1-Exercise6.deps.json
+C:\Users\shaml\source\repos\Assignment1-Exercise6\Assignment1-Exercise6\bin\Debug\net6.0-windows\Assignment1-Exercise6.runtimeconfig.json
+C:\Users\shaml\source\repos\Assignment1-Exercise6\Assignment1-Exercise6\bin\Debug\net6.0-windows\Assignment1-Exercise6.dll
+C:\Users\shaml\source\repos\Assignment1-Exercise6\Assignment1-Exercise6\bin\Debug\net6.0-windows\Assignment1-Exercise6.pdb
+C:\Users\shaml\source\repos\Assignment1-Exercise6\Assignment1-Exercise6\obj\Debug\net6.0-windows\Assignment1-Exercise6.csproj.AssemblyReference.cache
+C:\Users\shaml\source\repos\Assignment1-Exercise6\Assignment1-Exercise6\obj\Debug\net6.0-windows\Assignment1_Exercise6.Form1.resources
+C:\Users\shaml\source\repos\Assignment1-Exercise6\Assignment1-Exercise6\obj\Debug\net6.0-windows\Assignment1-Exercise6.csproj.GenerateResource.cache
+C:\Users\shaml\source\repos\Assignment1-Exercise6\Assignment1-Exercise6\obj\Debug\net6.0-windows\Assignment1-Exercise6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaml\source\repos\Assignment1-Exercise6\Assignment1-Exercise6\obj\Debug\net6.0-windows\Assignment1-Exercise6.AssemblyInfoInputs.cache
+C:\Users\shaml\source\repos\Assignment1-Exercise6\Assignment1-Exercise6\obj\Debug\net6.0-windows\Assignment1-Exercise6.AssemblyInfo.cs
+C:\Users\shaml\source\repos\Assignment1-Exercise6\Assignment1-Exercise6\obj\Debug\net6.0-windows\Assignment1-Exercise6.csproj.CoreCompileInputs.cache
+C:\Users\shaml\source\repos\Assignment1-Exercise6\Assignment1-Exercise6\obj\Debug\net6.0-windows\Assignment1-Exercise6.dll
+C:\Users\shaml\source\repos\Assignment1-Exercise6\Assignment1-Exercise6\obj\Debug\net6.0-windows\refint\Assignment1-Exercise6.dll
+C:\Users\shaml\source\repos\Assignment1-Exercise6\Assignment1-Exercise6\obj\Debug\net6.0-windows\Assignment1-Exercise6.pdb
+C:\Users\shaml\source\repos\Assignment1-Exercise6\Assignment1-Exercise6\obj\Debug\net6.0-windows\Assignment1-Exercise6.genruntimeconfig.cache
+C:\Users\shaml\source\repos\Assignment1-Exercise6\Assignment1-Exercise6\obj\Debug\net6.0-windows\ref\Assignment1-Exercise6.dll
