@@ -1,0 +1,21 @@
+D:\Documents\Books\C#\5th Edition (future)\New Material\Dictionaries\Completed Tutorials\Tutorial D-1\Birthdays\Birthdays\bin\Debug\Birthdays.exe.config
+D:\Documents\Books\C#\5th Edition (future)\New Material\Dictionaries\Completed Tutorials\Tutorial D-1\Birthdays\Birthdays\bin\Debug\Birthdays.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\Dictionaries\Completed Tutorials\Tutorial D-1\Birthdays\Birthdays\bin\Debug\Birthdays.pdb
+D:\Documents\Books\C#\5th Edition (future)\New Material\Dictionaries\Completed Tutorials\Tutorial D-1\Birthdays\Birthdays\obj\Debug\Birthdays.csprojAssemblyReference.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Dictionaries\Completed Tutorials\Tutorial D-1\Birthdays\Birthdays\obj\Debug\Birthdays.Form1.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\Dictionaries\Completed Tutorials\Tutorial D-1\Birthdays\Birthdays\obj\Debug\Birthdays.Properties.Resources.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\Dictionaries\Completed Tutorials\Tutorial D-1\Birthdays\Birthdays\obj\Debug\Birthdays.csproj.GenerateResource.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Dictionaries\Completed Tutorials\Tutorial D-1\Birthdays\Birthdays\obj\Debug\Birthdays.csproj.CoreCompileInputs.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Dictionaries\Completed Tutorials\Tutorial D-1\Birthdays\Birthdays\obj\Debug\Birthdays.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\Dictionaries\Completed Tutorials\Tutorial D-1\Birthdays\Birthdays\obj\Debug\Birthdays.pdb
+C:\Users\000464710\Documents\GitHub\lab7-gabgab017\Tutorial 9-3\Birthdays\Birthdays\bin\Debug\Birthdays.exe.config
+C:\Users\000464710\Documents\GitHub\lab7-gabgab017\Tutorial 9-3\Birthdays\Birthdays\bin\Debug\Birthdays.exe
+C:\Users\000464710\Documents\GitHub\lab7-gabgab017\Tutorial 9-3\Birthdays\Birthdays\bin\Debug\Birthdays.pdb
+C:\Users\000464710\Documents\GitHub\lab7-gabgab017\Tutorial 9-3\Birthdays\Birthdays\obj\Debug\Birthdays.csproj.AssemblyReference.cache
+C:\Users\000464710\Documents\GitHub\lab7-gabgab017\Tutorial 9-3\Birthdays\Birthdays\obj\Debug\Birthdays.csproj.SuggestedBindingRedirects.cache
+C:\Users\000464710\Documents\GitHub\lab7-gabgab017\Tutorial 9-3\Birthdays\Birthdays\obj\Debug\Birthdays.Form1.resources
+C:\Users\000464710\Documents\GitHub\lab7-gabgab017\Tutorial 9-3\Birthdays\Birthdays\obj\Debug\Birthdays.Properties.Resources.resources
+C:\Users\000464710\Documents\GitHub\lab7-gabgab017\Tutorial 9-3\Birthdays\Birthdays\obj\Debug\Birthdays.csproj.GenerateResource.cache
+C:\Users\000464710\Documents\GitHub\lab7-gabgab017\Tutorial 9-3\Birthdays\Birthdays\obj\Debug\Birthdays.csproj.CoreCompileInputs.cache
+C:\Users\000464710\Documents\GitHub\lab7-gabgab017\Tutorial 9-3\Birthdays\Birthdays\obj\Debug\Birthdays.exe
+C:\Users\000464710\Documents\GitHub\lab7-gabgab017\Tutorial 9-3\Birthdays\Birthdays\obj\Debug\Birthdays.pdb
