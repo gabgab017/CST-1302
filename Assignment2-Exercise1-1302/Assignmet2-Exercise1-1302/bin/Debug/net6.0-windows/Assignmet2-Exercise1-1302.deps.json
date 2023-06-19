@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Assignmet2-Exercise1-1302/1.0.0": {
+        "runtime": {
+          "Assignmet2-Exercise1-1302.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignmet2-Exercise1-1302/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

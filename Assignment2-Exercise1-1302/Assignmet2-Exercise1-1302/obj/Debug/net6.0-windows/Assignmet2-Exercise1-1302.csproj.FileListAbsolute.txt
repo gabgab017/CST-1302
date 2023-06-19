@@ -1,0 +1,17 @@
+C:\Users\shaml\source\repos\Assignmet2-Exercise1-1302\Assignmet2-Exercise1-1302\bin\Debug\net6.0-windows\Assignmet2-Exercise1-1302.exe
+C:\Users\shaml\source\repos\Assignmet2-Exercise1-1302\Assignmet2-Exercise1-1302\bin\Debug\net6.0-windows\Assignmet2-Exercise1-1302.deps.json
+C:\Users\shaml\source\repos\Assignmet2-Exercise1-1302\Assignmet2-Exercise1-1302\bin\Debug\net6.0-windows\Assignmet2-Exercise1-1302.runtimeconfig.json
+C:\Users\shaml\source\repos\Assignmet2-Exercise1-1302\Assignmet2-Exercise1-1302\bin\Debug\net6.0-windows\Assignmet2-Exercise1-1302.dll
+C:\Users\shaml\source\repos\Assignmet2-Exercise1-1302\Assignmet2-Exercise1-1302\bin\Debug\net6.0-windows\Assignmet2-Exercise1-1302.pdb
+C:\Users\shaml\source\repos\Assignmet2-Exercise1-1302\Assignmet2-Exercise1-1302\obj\Debug\net6.0-windows\Assignmet2-Exercise1-1302.csproj.AssemblyReference.cache
+C:\Users\shaml\source\repos\Assignmet2-Exercise1-1302\Assignmet2-Exercise1-1302\obj\Debug\net6.0-windows\Assignmet2_Exercise1_1302.Form1.resources
+C:\Users\shaml\source\repos\Assignmet2-Exercise1-1302\Assignmet2-Exercise1-1302\obj\Debug\net6.0-windows\Assignmet2-Exercise1-1302.csproj.GenerateResource.cache
+C:\Users\shaml\source\repos\Assignmet2-Exercise1-1302\Assignmet2-Exercise1-1302\obj\Debug\net6.0-windows\Assignmet2-Exercise1-1302.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaml\source\repos\Assignmet2-Exercise1-1302\Assignmet2-Exercise1-1302\obj\Debug\net6.0-windows\Assignmet2-Exercise1-1302.AssemblyInfoInputs.cache
+C:\Users\shaml\source\repos\Assignmet2-Exercise1-1302\Assignmet2-Exercise1-1302\obj\Debug\net6.0-windows\Assignmet2-Exercise1-1302.AssemblyInfo.cs
+C:\Users\shaml\source\repos\Assignmet2-Exercise1-1302\Assignmet2-Exercise1-1302\obj\Debug\net6.0-windows\Assignmet2-Exercise1-1302.csproj.CoreCompileInputs.cache
+C:\Users\shaml\source\repos\Assignmet2-Exercise1-1302\Assignmet2-Exercise1-1302\obj\Debug\net6.0-windows\Assignmet2-Exercise1-1302.dll
+C:\Users\shaml\source\repos\Assignmet2-Exercise1-1302\Assignmet2-Exercise1-1302\obj\Debug\net6.0-windows\refint\Assignmet2-Exercise1-1302.dll
+C:\Users\shaml\source\repos\Assignmet2-Exercise1-1302\Assignmet2-Exercise1-1302\obj\Debug\net6.0-windows\Assignmet2-Exercise1-1302.pdb
+C:\Users\shaml\source\repos\Assignmet2-Exercise1-1302\Assignmet2-Exercise1-1302\obj\Debug\net6.0-windows\Assignmet2-Exercise1-1302.genruntimeconfig.cache
+C:\Users\shaml\source\repos\Assignmet2-Exercise1-1302\Assignmet2-Exercise1-1302\obj\Debug\net6.0-windows\ref\Assignmet2-Exercise1-1302.dll
