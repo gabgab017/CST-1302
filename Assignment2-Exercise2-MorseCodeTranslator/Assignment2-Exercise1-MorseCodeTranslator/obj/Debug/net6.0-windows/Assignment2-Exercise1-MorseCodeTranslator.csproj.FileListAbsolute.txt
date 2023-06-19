@@ -1,0 +1,17 @@
+C:\Users\shaml\source\repos\Assignment2-Exercise1-MorseCodeTranslator\Assignment2-Exercise1-MorseCodeTranslator\obj\Debug\net6.0-windows\Assignment2-Exercise1-MorseCodeTranslator.csproj.AssemblyReference.cache
+C:\Users\shaml\source\repos\Assignment2-Exercise1-MorseCodeTranslator\Assignment2-Exercise1-MorseCodeTranslator\obj\Debug\net6.0-windows\Assignment2_Exercise1_MorseCodeTranslator.Form1.resources
+C:\Users\shaml\source\repos\Assignment2-Exercise1-MorseCodeTranslator\Assignment2-Exercise1-MorseCodeTranslator\obj\Debug\net6.0-windows\Assignment2-Exercise1-MorseCodeTranslator.csproj.GenerateResource.cache
+C:\Users\shaml\source\repos\Assignment2-Exercise1-MorseCodeTranslator\Assignment2-Exercise1-MorseCodeTranslator\obj\Debug\net6.0-windows\Assignment2-Exercise1-MorseCodeTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaml\source\repos\Assignment2-Exercise1-MorseCodeTranslator\Assignment2-Exercise1-MorseCodeTranslator\obj\Debug\net6.0-windows\Assignment2-Exercise1-MorseCodeTranslator.AssemblyInfoInputs.cache
+C:\Users\shaml\source\repos\Assignment2-Exercise1-MorseCodeTranslator\Assignment2-Exercise1-MorseCodeTranslator\obj\Debug\net6.0-windows\Assignment2-Exercise1-MorseCodeTranslator.AssemblyInfo.cs
+C:\Users\shaml\source\repos\Assignment2-Exercise1-MorseCodeTranslator\Assignment2-Exercise1-MorseCodeTranslator\obj\Debug\net6.0-windows\Assignment2-Exercise1-MorseCodeTranslator.csproj.CoreCompileInputs.cache
+C:\Users\shaml\source\repos\Assignment2-Exercise1-MorseCodeTranslator\Assignment2-Exercise1-MorseCodeTranslator\bin\Debug\net6.0-windows\Assignment2-Exercise1-MorseCodeTranslator.exe
+C:\Users\shaml\source\repos\Assignment2-Exercise1-MorseCodeTranslator\Assignment2-Exercise1-MorseCodeTranslator\bin\Debug\net6.0-windows\Assignment2-Exercise1-MorseCodeTranslator.deps.json
+C:\Users\shaml\source\repos\Assignment2-Exercise1-MorseCodeTranslator\Assignment2-Exercise1-MorseCodeTranslator\bin\Debug\net6.0-windows\Assignment2-Exercise1-MorseCodeTranslator.runtimeconfig.json
+C:\Users\shaml\source\repos\Assignment2-Exercise1-MorseCodeTranslator\Assignment2-Exercise1-MorseCodeTranslator\bin\Debug\net6.0-windows\Assignment2-Exercise1-MorseCodeTranslator.dll
+C:\Users\shaml\source\repos\Assignment2-Exercise1-MorseCodeTranslator\Assignment2-Exercise1-MorseCodeTranslator\bin\Debug\net6.0-windows\Assignment2-Exercise1-MorseCodeTranslator.pdb
+C:\Users\shaml\source\repos\Assignment2-Exercise1-MorseCodeTranslator\Assignment2-Exercise1-MorseCodeTranslator\obj\Debug\net6.0-windows\Assignment2-Exercise1-MorseCodeTranslator.dll
+C:\Users\shaml\source\repos\Assignment2-Exercise1-MorseCodeTranslator\Assignment2-Exercise1-MorseCodeTranslator\obj\Debug\net6.0-windows\refint\Assignment2-Exercise1-MorseCodeTranslator.dll
+C:\Users\shaml\source\repos\Assignment2-Exercise1-MorseCodeTranslator\Assignment2-Exercise1-MorseCodeTranslator\obj\Debug\net6.0-windows\Assignment2-Exercise1-MorseCodeTranslator.pdb
+C:\Users\shaml\source\repos\Assignment2-Exercise1-MorseCodeTranslator\Assignment2-Exercise1-MorseCodeTranslator\obj\Debug\net6.0-windows\Assignment2-Exercise1-MorseCodeTranslator.genruntimeconfig.cache
+C:\Users\shaml\source\repos\Assignment2-Exercise1-MorseCodeTranslator\Assignment2-Exercise1-MorseCodeTranslator\obj\Debug\net6.0-windows\ref\Assignment2-Exercise1-MorseCodeTranslator.dll
