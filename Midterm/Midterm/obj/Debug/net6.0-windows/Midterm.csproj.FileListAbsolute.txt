@@ -1,0 +1,17 @@
+D:\Gabor-CSTP1302\Midterm\Midterm\obj\Debug\net6.0-windows\Midterm.csproj.AssemblyReference.cache
+D:\Gabor-CSTP1302\Midterm\Midterm\obj\Debug\net6.0-windows\Midterm.Form1.resources
+D:\Gabor-CSTP1302\Midterm\Midterm\obj\Debug\net6.0-windows\Midterm.csproj.GenerateResource.cache
+D:\Gabor-CSTP1302\Midterm\Midterm\obj\Debug\net6.0-windows\Midterm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabor-CSTP1302\Midterm\Midterm\obj\Debug\net6.0-windows\Midterm.AssemblyInfoInputs.cache
+D:\Gabor-CSTP1302\Midterm\Midterm\obj\Debug\net6.0-windows\Midterm.AssemblyInfo.cs
+D:\Gabor-CSTP1302\Midterm\Midterm\obj\Debug\net6.0-windows\Midterm.csproj.CoreCompileInputs.cache
+D:\Gabor-CSTP1302\Midterm\Midterm\bin\Debug\net6.0-windows\Midterm.exe
+D:\Gabor-CSTP1302\Midterm\Midterm\bin\Debug\net6.0-windows\Midterm.deps.json
+D:\Gabor-CSTP1302\Midterm\Midterm\bin\Debug\net6.0-windows\Midterm.runtimeconfig.json
+D:\Gabor-CSTP1302\Midterm\Midterm\bin\Debug\net6.0-windows\Midterm.dll
+D:\Gabor-CSTP1302\Midterm\Midterm\bin\Debug\net6.0-windows\Midterm.pdb
+D:\Gabor-CSTP1302\Midterm\Midterm\obj\Debug\net6.0-windows\Midterm.dll
+D:\Gabor-CSTP1302\Midterm\Midterm\obj\Debug\net6.0-windows\refint\Midterm.dll
+D:\Gabor-CSTP1302\Midterm\Midterm\obj\Debug\net6.0-windows\Midterm.pdb
+D:\Gabor-CSTP1302\Midterm\Midterm\obj\Debug\net6.0-windows\Midterm.genruntimeconfig.cache
+D:\Gabor-CSTP1302\Midterm\Midterm\obj\Debug\net6.0-windows\ref\Midterm.dll
