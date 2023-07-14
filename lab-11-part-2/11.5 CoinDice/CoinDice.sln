@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinDice", "CoinDice\CoinDice.csproj", "{D15F8ABE-B87E-428F-AF5E-C135F6AEF9D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D15F8ABE-B87E-428F-AF5E-C135F6AEF9D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15F8ABE-B87E-428F-AF5E-C135F6AEF9D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15F8ABE-B87E-428F-AF5E-C135F6AEF9D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15F8ABE-B87E-428F-AF5E-C135F6AEF9D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99002D01-90C3-4FBB-B5F5-B4AD1022A6CF}
+	EndGlobalSection
+EndGlobal

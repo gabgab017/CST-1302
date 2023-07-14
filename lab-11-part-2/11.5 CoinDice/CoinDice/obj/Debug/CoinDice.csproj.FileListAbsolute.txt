@@ -1,0 +1,29 @@
+D:\Documents\Books\C#\5th Edition (future)\New Material\Interfaces\Interfaces Source Code\CoinDice\CoinDice\bin\Debug\CoinDice.exe.config
+D:\Documents\Books\C#\5th Edition (future)\New Material\Interfaces\Interfaces Source Code\CoinDice\CoinDice\bin\Debug\CoinDice.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\Interfaces\Interfaces Source Code\CoinDice\CoinDice\bin\Debug\CoinDice.pdb
+D:\Documents\Books\C#\5th Edition (future)\New Material\Interfaces\Interfaces Source Code\CoinDice\CoinDice\obj\Debug\CoinDice.csprojAssemblyReference.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Interfaces\Interfaces Source Code\CoinDice\CoinDice\obj\Debug\CoinDice.Form1.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\Interfaces\Interfaces Source Code\CoinDice\CoinDice\obj\Debug\CoinDice.Properties.Resources.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\Interfaces\Interfaces Source Code\CoinDice\CoinDice\obj\Debug\CoinDice.csproj.GenerateResource.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Interfaces\Interfaces Source Code\CoinDice\CoinDice\obj\Debug\CoinDice.csproj.CoreCompileInputs.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Interfaces\Interfaces Source Code\CoinDice\CoinDice\obj\Debug\CoinDice.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\Interfaces\Interfaces Source Code\CoinDice\CoinDice\obj\Debug\CoinDice.pdb
+C:\cstp1302\_irc_files_9780135204757_solutions-284961\Solutions\Completed Tutorials\Completed Tutorials\Chapter 11\Tutorial 11-5\CoinDice\CoinDice\bin\Debug\CoinDice.exe.config
+C:\cstp1302\_irc_files_9780135204757_solutions-284961\Solutions\Completed Tutorials\Completed Tutorials\Chapter 11\Tutorial 11-5\CoinDice\CoinDice\bin\Debug\CoinDice.exe
+C:\cstp1302\_irc_files_9780135204757_solutions-284961\Solutions\Completed Tutorials\Completed Tutorials\Chapter 11\Tutorial 11-5\CoinDice\CoinDice\bin\Debug\CoinDice.pdb
+C:\cstp1302\_irc_files_9780135204757_solutions-284961\Solutions\Completed Tutorials\Completed Tutorials\Chapter 11\Tutorial 11-5\CoinDice\CoinDice\obj\Debug\CoinDice.csproj.AssemblyReference.cache
+C:\cstp1302\_irc_files_9780135204757_solutions-284961\Solutions\Completed Tutorials\Completed Tutorials\Chapter 11\Tutorial 11-5\CoinDice\CoinDice\obj\Debug\CoinDice.csproj.SuggestedBindingRedirects.cache
+C:\cstp1302\_irc_files_9780135204757_solutions-284961\Solutions\Completed Tutorials\Completed Tutorials\Chapter 11\Tutorial 11-5\CoinDice\CoinDice\obj\Debug\CoinDice.Form1.resources
+C:\cstp1302\_irc_files_9780135204757_solutions-284961\Solutions\Completed Tutorials\Completed Tutorials\Chapter 11\Tutorial 11-5\CoinDice\CoinDice\obj\Debug\CoinDice.Properties.Resources.resources
+C:\cstp1302\_irc_files_9780135204757_solutions-284961\Solutions\Completed Tutorials\Completed Tutorials\Chapter 11\Tutorial 11-5\CoinDice\CoinDice\obj\Debug\CoinDice.csproj.GenerateResource.cache
+C:\cstp1302\_irc_files_9780135204757_solutions-284961\Solutions\Completed Tutorials\Completed Tutorials\Chapter 11\Tutorial 11-5\CoinDice\CoinDice\obj\Debug\CoinDice.csproj.CoreCompileInputs.cache
+C:\cstp1302\_irc_files_9780135204757_solutions-284961\Solutions\Completed Tutorials\Completed Tutorials\Chapter 11\Tutorial 11-5\CoinDice\CoinDice\obj\Debug\CoinDice.exe
+C:\cstp1302\_irc_files_9780135204757_solutions-284961\Solutions\Completed Tutorials\Completed Tutorials\Chapter 11\Tutorial 11-5\CoinDice\CoinDice\obj\Debug\CoinDice.pdb
+C:\Users\gabor\OneDrive\Desktop\lab-11-part-ii-gabgab017\11.5 CoinDice\CoinDice\obj\Debug\CoinDice.csproj.AssemblyReference.cache
+C:\Users\gabor\OneDrive\Desktop\lab-11-part-ii-gabgab017\11.5 CoinDice\CoinDice\obj\Debug\CoinDice.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabor\OneDrive\Desktop\lab-11-part-ii-gabgab017\11.5 CoinDice\CoinDice\obj\Debug\CoinDice.Form1.resources
+C:\Users\gabor\OneDrive\Desktop\lab-11-part-ii-gabgab017\11.5 CoinDice\CoinDice\obj\Debug\CoinDice.Properties.Resources.resources
+C:\Users\gabor\OneDrive\Desktop\lab-11-part-ii-gabgab017\11.5 CoinDice\CoinDice\obj\Debug\CoinDice.csproj.GenerateResource.cache
+C:\Users\gabor\OneDrive\Desktop\lab-11-part-ii-gabgab017\11.5 CoinDice\CoinDice\obj\Debug\CoinDice.csproj.CoreCompileInputs.cache
+C:\Users\gabor\OneDrive\Desktop\lab-11-part-ii-gabgab017\11.5 CoinDice\CoinDice\obj\Debug\CoinDice.exe
+C:\Users\gabor\OneDrive\Desktop\lab-11-part-ii-gabgab017\11.5 CoinDice\CoinDice\obj\Debug\CoinDice.pdb

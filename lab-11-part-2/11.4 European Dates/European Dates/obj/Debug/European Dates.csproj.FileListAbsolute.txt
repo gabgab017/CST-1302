@@ -1,0 +1,32 @@
+D:\Documents\Books\C#\5th Edition (future)\New Material\Extension Methods\Completed Tutorials\Tutorial E-1\European Dates\European Dates\bin\Debug\European Dates.exe.config
+D:\Documents\Books\C#\5th Edition (future)\New Material\Extension Methods\Completed Tutorials\Tutorial E-1\European Dates\European Dates\bin\Debug\European Dates.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\Extension Methods\Completed Tutorials\Tutorial E-1\European Dates\European Dates\bin\Debug\European Dates.pdb
+D:\Documents\Books\C#\5th Edition (future)\New Material\Extension Methods\Completed Tutorials\Tutorial E-1\European Dates\European Dates\obj\Debug\European Dates.csprojAssemblyReference.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Extension Methods\Completed Tutorials\Tutorial E-1\European Dates\European Dates\obj\Debug\European_Dates.Form1.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\Extension Methods\Completed Tutorials\Tutorial E-1\European Dates\European Dates\obj\Debug\European_Dates.Properties.Resources.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\Extension Methods\Completed Tutorials\Tutorial E-1\European Dates\European Dates\obj\Debug\European Dates.csproj.GenerateResource.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Extension Methods\Completed Tutorials\Tutorial E-1\European Dates\European Dates\obj\Debug\European Dates.csproj.CoreCompileInputs.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Extension Methods\Completed Tutorials\Tutorial E-1\European Dates\European Dates\obj\Debug\European Dates.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\Extension Methods\Completed Tutorials\Tutorial E-1\European Dates\European Dates\obj\Debug\European Dates.pdb
+C:\cstp1302\Labs\lab 11-2\European Dates\European Dates\bin\Debug\European Dates.exe.config
+C:\cstp1302\Labs\lab 11-2\European Dates\European Dates\bin\Debug\European Dates.exe
+C:\cstp1302\Labs\lab 11-2\European Dates\European Dates\bin\Debug\European Dates.pdb
+C:\cstp1302\Labs\lab 11-2\European Dates\European Dates\obj\Debug\European Dates.csproj.AssemblyReference.cache
+C:\cstp1302\Labs\lab 11-2\European Dates\European Dates\obj\Debug\European Dates.csproj.SuggestedBindingRedirects.cache
+C:\cstp1302\Labs\lab 11-2\European Dates\European Dates\obj\Debug\European_Dates.Form1.resources
+C:\cstp1302\Labs\lab 11-2\European Dates\European Dates\obj\Debug\European_Dates.Properties.Resources.resources
+C:\cstp1302\Labs\lab 11-2\European Dates\European Dates\obj\Debug\European Dates.csproj.GenerateResource.cache
+C:\cstp1302\Labs\lab 11-2\European Dates\European Dates\obj\Debug\European Dates.csproj.CoreCompileInputs.cache
+C:\cstp1302\Labs\lab 11-2\European Dates\European Dates\obj\Debug\European Dates.exe
+C:\cstp1302\Labs\lab 11-2\European Dates\European Dates\obj\Debug\European Dates.pdb
+C:\Users\gabor\OneDrive\Desktop\lab-11-part-ii-gabgab017\11.4 European Dates\European Dates\obj\Debug\European Dates.csproj.AssemblyReference.cache
+C:\Users\gabor\OneDrive\Desktop\lab-11-part-ii-gabgab017\11.4 European Dates\European Dates\obj\Debug\European Dates.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabor\OneDrive\Desktop\lab-11-part-ii-gabgab017\11.4 European Dates\European Dates\obj\Debug\European_Dates.Form1.resources
+C:\Users\gabor\OneDrive\Desktop\lab-11-part-ii-gabgab017\11.4 European Dates\European Dates\obj\Debug\European_Dates.Properties.Resources.resources
+C:\Users\gabor\OneDrive\Desktop\lab-11-part-ii-gabgab017\11.4 European Dates\European Dates\obj\Debug\European Dates.csproj.GenerateResource.cache
+C:\Users\gabor\OneDrive\Desktop\lab-11-part-ii-gabgab017\11.4 European Dates\European Dates\obj\Debug\European Dates.csproj.CoreCompileInputs.cache
+C:\Users\gabor\OneDrive\Desktop\lab-11-part-ii-gabgab017\11.4 European Dates\European Dates\obj\Debug\European Dates.exe
+C:\Users\gabor\OneDrive\Desktop\lab-11-part-ii-gabgab017\11.4 European Dates\European Dates\obj\Debug\European Dates.pdb
+C:\Users\gabor\OneDrive\Desktop\lab-11-part-ii-gabgab017\11.4 European Dates\European Dates\bin\Debug\European Dates.exe.config
+C:\Users\gabor\OneDrive\Desktop\lab-11-part-ii-gabgab017\11.4 European Dates\European Dates\bin\Debug\European Dates.exe
+C:\Users\gabor\OneDrive\Desktop\lab-11-part-ii-gabgab017\11.4 European Dates\European Dates\bin\Debug\European Dates.pdb
