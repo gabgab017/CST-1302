@@ -1,0 +1,13 @@
+C:\Users\Gabor\source\repos\ProductLookup\ProductLookup\bin\Debug\ProductDB.mdf
+C:\Users\Gabor\source\repos\ProductLookup\ProductLookup\bin\Debug\ProductDB_log.ldf
+C:\Users\Gabor\source\repos\ProductLookup\ProductLookup\bin\Debug\ProductLookup.exe.config
+C:\Users\Gabor\source\repos\ProductLookup\ProductLookup\bin\Debug\ProductLookup.exe
+C:\Users\Gabor\source\repos\ProductLookup\ProductLookup\bin\Debug\ProductLookup.pdb
+C:\Users\Gabor\source\repos\ProductLookup\ProductLookup\obj\Debug\ProductLookup.csproj.AssemblyReference.cache
+C:\Users\Gabor\source\repos\ProductLookup\ProductLookup\obj\Debug\ProductLookup.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabor\source\repos\ProductLookup\ProductLookup\obj\Debug\ProductLookup.Form1.resources
+C:\Users\Gabor\source\repos\ProductLookup\ProductLookup\obj\Debug\ProductLookup.Properties.Resources.resources
+C:\Users\Gabor\source\repos\ProductLookup\ProductLookup\obj\Debug\ProductLookup.csproj.GenerateResource.cache
+C:\Users\Gabor\source\repos\ProductLookup\ProductLookup\obj\Debug\ProductLookup.csproj.CoreCompileInputs.cache
+C:\Users\Gabor\source\repos\ProductLookup\ProductLookup\obj\Debug\ProductLookup.exe
+C:\Users\Gabor\source\repos\ProductLookup\ProductLookup\obj\Debug\ProductLookup.pdb
