@@ -1,0 +1,13 @@
+C:\Users\gabor\OneDrive\Desktop\Lab13\Lab13\bin\Debug\ProductDB.mdf
+C:\Users\gabor\OneDrive\Desktop\Lab13\Lab13\bin\Debug\ProductDB_log.ldf
+C:\Users\gabor\OneDrive\Desktop\Lab13\Lab13\bin\Debug\Lab13.exe.config
+C:\Users\gabor\OneDrive\Desktop\Lab13\Lab13\bin\Debug\Lab13.exe
+C:\Users\gabor\OneDrive\Desktop\Lab13\Lab13\bin\Debug\Lab13.pdb
+C:\Users\gabor\OneDrive\Desktop\Lab13\Lab13\obj\Debug\Lab13.csproj.AssemblyReference.cache
+C:\Users\gabor\OneDrive\Desktop\Lab13\Lab13\obj\Debug\Lab13.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabor\OneDrive\Desktop\Lab13\Lab13\obj\Debug\Lab13.Form1.resources
+C:\Users\gabor\OneDrive\Desktop\Lab13\Lab13\obj\Debug\Lab13.Properties.Resources.resources
+C:\Users\gabor\OneDrive\Desktop\Lab13\Lab13\obj\Debug\Lab13.csproj.GenerateResource.cache
+C:\Users\gabor\OneDrive\Desktop\Lab13\Lab13\obj\Debug\Lab13.csproj.CoreCompileInputs.cache
+C:\Users\gabor\OneDrive\Desktop\Lab13\Lab13\obj\Debug\Lab13.exe
+C:\Users\gabor\OneDrive\Desktop\Lab13\Lab13\obj\Debug\Lab13.pdb

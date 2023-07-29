@@ -1,0 +1,13 @@
+C:\Users\gabor\OneDrive\Desktop\Product search\Product search\obj\Debug\Product search.csproj.AssemblyReference.cache
+C:\Users\gabor\OneDrive\Desktop\Product search\Product search\obj\Debug\Product search.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabor\OneDrive\Desktop\Product search\Product search\obj\Debug\Product_search.Form1.resources
+C:\Users\gabor\OneDrive\Desktop\Product search\Product search\obj\Debug\Product_search.Properties.Resources.resources
+C:\Users\gabor\OneDrive\Desktop\Product search\Product search\obj\Debug\Product search.csproj.GenerateResource.cache
+C:\Users\gabor\OneDrive\Desktop\Product search\Product search\obj\Debug\Product search.csproj.CoreCompileInputs.cache
+C:\Users\gabor\OneDrive\Desktop\Product search\Product search\bin\Debug\ProductDB.mdf
+C:\Users\gabor\OneDrive\Desktop\Product search\Product search\bin\Debug\ProductDB_log.ldf
+C:\Users\gabor\OneDrive\Desktop\Product search\Product search\bin\Debug\Product search.exe.config
+C:\Users\gabor\OneDrive\Desktop\Product search\Product search\bin\Debug\Product search.exe
+C:\Users\gabor\OneDrive\Desktop\Product search\Product search\bin\Debug\Product search.pdb
+C:\Users\gabor\OneDrive\Desktop\Product search\Product search\obj\Debug\Product search.exe
+C:\Users\gabor\OneDrive\Desktop\Product search\Product search\obj\Debug\Product search.pdb
