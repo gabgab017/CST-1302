@@ -1,0 +1,21 @@
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates\Delegates Completed Tutorial\Tutorial D-1\SAT Scores\SAT Scores\bin\Debug\SAT Scores.exe.config
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates\Delegates Completed Tutorial\Tutorial D-1\SAT Scores\SAT Scores\bin\Debug\SAT Scores.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates\Delegates Completed Tutorial\Tutorial D-1\SAT Scores\SAT Scores\bin\Debug\SAT Scores.pdb
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates\Delegates Completed Tutorial\Tutorial D-1\SAT Scores\SAT Scores\obj\Debug\SAT Scores.csprojAssemblyReference.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates\Delegates Completed Tutorial\Tutorial D-1\SAT Scores\SAT Scores\obj\Debug\SAT_Scores.Form1.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates\Delegates Completed Tutorial\Tutorial D-1\SAT Scores\SAT Scores\obj\Debug\SAT_Scores.Properties.Resources.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates\Delegates Completed Tutorial\Tutorial D-1\SAT Scores\SAT Scores\obj\Debug\SAT Scores.csproj.GenerateResource.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates\Delegates Completed Tutorial\Tutorial D-1\SAT Scores\SAT Scores\obj\Debug\SAT Scores.csproj.CoreCompileInputs.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates\Delegates Completed Tutorial\Tutorial D-1\SAT Scores\SAT Scores\obj\Debug\SAT Scores.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates\Delegates Completed Tutorial\Tutorial D-1\SAT Scores\SAT Scores\obj\Debug\SAT Scores.pdb
+C:\Users\gabor\OneDrive\Desktop\lab14-gabgab017\SAT Scores\obj\Debug\SAT Scores.csproj.AssemblyReference.cache
+C:\Users\gabor\OneDrive\Desktop\lab14-gabgab017\SAT Scores\obj\Debug\SAT Scores.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabor\OneDrive\Desktop\lab14-gabgab017\SAT Scores\obj\Debug\SAT_Scores.Form1.resources
+C:\Users\gabor\OneDrive\Desktop\lab14-gabgab017\SAT Scores\obj\Debug\SAT_Scores.Properties.Resources.resources
+C:\Users\gabor\OneDrive\Desktop\lab14-gabgab017\SAT Scores\obj\Debug\SAT Scores.csproj.GenerateResource.cache
+C:\Users\gabor\OneDrive\Desktop\lab14-gabgab017\SAT Scores\obj\Debug\SAT Scores.csproj.CoreCompileInputs.cache
+C:\Users\gabor\OneDrive\Desktop\lab14-gabgab017\SAT Scores\obj\Debug\SAT Scores.exe
+C:\Users\gabor\OneDrive\Desktop\lab14-gabgab017\SAT Scores\obj\Debug\SAT Scores.pdb
+C:\Users\gabor\OneDrive\Desktop\lab14-gabgab017\SAT Scores\bin\Debug\SAT Scores.exe.config
+C:\Users\gabor\OneDrive\Desktop\lab14-gabgab017\SAT Scores\bin\Debug\SAT Scores.exe
+C:\Users\gabor\OneDrive\Desktop\lab14-gabgab017\SAT Scores\bin\Debug\SAT Scores.pdb
