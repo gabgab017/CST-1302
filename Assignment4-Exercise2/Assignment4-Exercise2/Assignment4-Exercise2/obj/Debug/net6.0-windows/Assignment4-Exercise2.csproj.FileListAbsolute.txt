@@ -1,0 +1,17 @@
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise2\Assignment4-Exercise2\bin\Debug\net6.0-windows\Assignment4-Exercise2.exe
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise2\Assignment4-Exercise2\bin\Debug\net6.0-windows\Assignment4-Exercise2.deps.json
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise2\Assignment4-Exercise2\bin\Debug\net6.0-windows\Assignment4-Exercise2.runtimeconfig.json
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise2\Assignment4-Exercise2\bin\Debug\net6.0-windows\Assignment4-Exercise2.dll
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise2\Assignment4-Exercise2\bin\Debug\net6.0-windows\Assignment4-Exercise2.pdb
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise2\Assignment4-Exercise2\obj\Debug\net6.0-windows\Assignment4-Exercise2.csproj.AssemblyReference.cache
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise2\Assignment4-Exercise2\obj\Debug\net6.0-windows\Assignment4_Exercise2.Form1.resources
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise2\Assignment4-Exercise2\obj\Debug\net6.0-windows\Assignment4-Exercise2.csproj.GenerateResource.cache
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise2\Assignment4-Exercise2\obj\Debug\net6.0-windows\Assignment4-Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise2\Assignment4-Exercise2\obj\Debug\net6.0-windows\Assignment4-Exercise2.AssemblyInfoInputs.cache
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise2\Assignment4-Exercise2\obj\Debug\net6.0-windows\Assignment4-Exercise2.AssemblyInfo.cs
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise2\Assignment4-Exercise2\obj\Debug\net6.0-windows\Assignment4-Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise2\Assignment4-Exercise2\obj\Debug\net6.0-windows\Assignment4-Exercise2.dll
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise2\Assignment4-Exercise2\obj\Debug\net6.0-windows\refint\Assignment4-Exercise2.dll
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise2\Assignment4-Exercise2\obj\Debug\net6.0-windows\Assignment4-Exercise2.pdb
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise2\Assignment4-Exercise2\obj\Debug\net6.0-windows\Assignment4-Exercise2.genruntimeconfig.cache
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise2\Assignment4-Exercise2\obj\Debug\net6.0-windows\ref\Assignment4-Exercise2.dll
