@@ -1,0 +1,13 @@
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise3\Assignment4-Exercise3\bin\Debug\Personnel.mdf
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise3\Assignment4-Exercise3\bin\Debug\Personnel_log.ldf
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise3\Assignment4-Exercise3\bin\Debug\Assignment4-Exercise3.exe.config
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise3\Assignment4-Exercise3\bin\Debug\Assignment4-Exercise3.exe
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise3\Assignment4-Exercise3\bin\Debug\Assignment4-Exercise3.pdb
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise3\Assignment4-Exercise3\obj\Debug\Assignment4-Exercise3.csproj.AssemblyReference.cache
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise3\Assignment4-Exercise3\obj\Debug\Assignment4-Exercise3.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise3\Assignment4-Exercise3\obj\Debug\Assignment4_Exercise3.Form1.resources
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise3\Assignment4-Exercise3\obj\Debug\Assignment4_Exercise3.Properties.Resources.resources
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise3\Assignment4-Exercise3\obj\Debug\Assignment4-Exercise3.csproj.GenerateResource.cache
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise3\Assignment4-Exercise3\obj\Debug\Assignment4-Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise3\Assignment4-Exercise3\obj\Debug\Assignment4-Exercise3.exe
+C:\Users\gabor\OneDrive\Desktop\Assignment4-Exercise3\Assignment4-Exercise3\obj\Debug\Assignment4-Exercise3.pdb
